@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+  <head>
+  </head>
+  <body>
+	Obramowanie tekstu: Elementy: tekst pogrubiony, pochylony, podkreślony, <br>
+	przekreślony, nagłówki, indeks dolny i górny. Opis obramowania: Formatowanie <br>
+	czcionki ciąg dalszy<br>
+	Poniżej:<br>
+
+	 Tekst pogrubiony: <b> Ten tekst musi zostać pogrubiony. <b><br>
+	 Przejście do nowej linii <br> <s>Od tej chwili dzielimy wszystkie linie.<s><br>
+	 <i> Tekst pochylony: Pochylenie tekstu <i> <br>
+	 <h1>Nagłówki: <h2>.
+  </body>
+
+</html>
