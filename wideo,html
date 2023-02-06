@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=/, initial-scale=1.0">
+    <title>Multimedia</title>
+</head>
+<body>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZNHe5fYc1Kc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <br>
+    <img src="https://media.tenor.com/yySj-rH2-84AAAAd/neco-arc-dance.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Neco Arc Dance GIF - Neco Arc Dance Freak - Discover & Share GIFs" data-noaft="1" style="width: 415px; height: 415px; margin: 0px;"> <br>
+    <object  width="560" height="315" data="nekoarc.gif"></object>
+    <br>
+    <video width="320" height="240" >
+        <source src="egipt.mp4" type="video/mp4">
+    </video>
+    <video width="320" height="240" controls autoplay loop poster="egypt.jpg">
+        <source src="egipt.mp4" type="video/mp4">
+    </video> <br>
+    <audio controls autoplay>
+        <source src="dzwiek.ogg" type="audio/ogg">
+        <source src="dzwiek.mp3" type="audio/ogg">
+    </audio>
+    <canvas id="obrazek" width="360" height="240">
+        var canvas = document.getElementById('obrazek');
+        var context = canvas.getContext('2d');
+    </canvas>
+
+</body>
+</html>
